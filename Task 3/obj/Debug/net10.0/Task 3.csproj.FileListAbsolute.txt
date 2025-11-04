@@ -1,0 +1,15 @@
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\bin\Debug\net10.0\Task 3.exe
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\bin\Debug\net10.0\Task 3.deps.json
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\bin\Debug\net10.0\Task 3.runtimeconfig.json
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\bin\Debug\net10.0\Task 3.dll
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\bin\Debug\net10.0\Task 3.pdb
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfoInputs.cache
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfo.cs
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\Task 3.csproj.CoreCompileInputs.cache
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\Task 3.sourcelink.json
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\Task 3.dll
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\refint\Task 3.dll
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\Task 3.pdb
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\Task 3.genruntimeconfig.cache
+D:\College\3Rd Year\dot Net\ClassWorks\Week 2\Task 3\obj\Debug\net10.0\ref\Task 3.dll
